@@ -50,7 +50,7 @@
 }
 
   @media only screen and (max-width: 600px) {
-    .section-3 .p2 {
+    /* .section-3 .p2 {
       text-align: center;
       font-size: 18px;
       font-weight: 400;
@@ -59,7 +59,7 @@
       letter-spacing: 0.01em;
       font-family: "DM Serif Display";
       font-style: normal;
-    }
+    } */
     .section-5 .bookimg{
       margin-top: 70px;
     }
@@ -162,7 +162,7 @@
     height: 1000px;
   }
 
-  .section-3 .p2 {
+  /* .section-3 .p2 {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -171,7 +171,7 @@
     letter-spacing: 0.01em;
     font-family: "DM Serif Display";
     font-style: normal;
-  }
+  } */
   .section-5 .bookimg{
     margin-top: 70px;
   }
@@ -194,7 +194,7 @@
     height: 90px;
     width: 70%;
   }
-  .section-3 .p2 {
+  /* .section-3 .p2 {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -203,7 +203,7 @@
     letter-spacing: 0.01em;
     font-family: "DM Serif Display";
     font-style: normal;
-  }
+  } */
   .section-4 {
     height: 700px;
   }
@@ -214,7 +214,7 @@
 }
 
 @media only screen and (max-width: 640px){
-  .section-3 .p2 {
+  /* .section-3 .p2 {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -223,11 +223,11 @@
     letter-spacing: 0.01em;
     font-family: "DM Serif Display";
     font-style: normal;
-  }
+  } */
 
 }
 @media only screen and (max-width: 360px){
-  .section-3 .p2 {
+  /* .section-3 .p2 {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -236,7 +236,7 @@
     letter-spacing: 0.01em;
     font-family: "DM Serif Display";
     font-style: normal;
-  }
+  } */
   .section-5 .bookimg{
     margin-top: 70px;
   }
@@ -288,7 +288,7 @@
   .section-3{
     height: 900px;
   }
-  .section-3 .p2 {
+  /* .section-3 .p2 {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -297,7 +297,7 @@
     letter-spacing: 0.01em;
     font-family: "DM Serif Display";
     font-style: normal;
-  }
+  } */
   .section-4{
     height: 800px;
   }
@@ -312,3 +312,24 @@
     margin-top: 70px;
   }
 }
+
+
+
+
+
+@media only screen and (max-width: 412px){
+  header .header-butn {
+    border-radius: 30px;
+    color: whitesmoke;
+    border: none;
+    font-size: x-large;
+    background-color: #fcb900;
+    background-image: linear-gradient(9deg, #fcb900, #fcb900);
+
+    height: 90px;
+    width: 90%;
+  }
+}
+
+
+
